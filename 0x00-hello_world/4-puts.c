@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-/*
- * this is a program to print characters
- * using puts command in c
- */
+/**
+* this is a program to print characters
+* using puts command in c
+*/
 
 int main(void)
 {
