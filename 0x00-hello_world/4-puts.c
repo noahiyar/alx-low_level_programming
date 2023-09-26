@@ -2,7 +2,9 @@
 
 /**
 * this is a program to print characters
-* using puts command in c
+* int main
+* print using puts function
+* return 0
 */
 
 int main(void)
